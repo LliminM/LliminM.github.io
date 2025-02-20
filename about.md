@@ -4,24 +4,12 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
 
 # 李旻
 
-📞 18905451804 | 📧 minminlee@hnu.edu.cn | 🏠 湖南省长沙市岳麓区麓山南路2号（410012） | 🌐 [LliminM.github.io](https://LliminM.github.io)
+📞 18905451804 | 📧 minminlee@hnu.edu.cn 
+🏠 湖南省长沙市岳麓区麓山南路2号（410012） 
+🌐 [LliminM.github.io](https://LliminM.github.io)
 
 ---
 
@@ -59,19 +47,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 - **数学**: 高等数学（98）、线性代数（92）、概率论与数理统计（91）
 - **编程**: 熟悉C++与Python编程语言，熟悉Java编程框架，CSP CCF：180分，蓝桥杯
 - **英语**: 四级：636；六级：558
-- **其他**: 
-  - HTML - Jade - Haml - Erb
-  - Responsive (Mobile First)
-  - CSS (Stylus, Sass, Less)
-  - CSS Frameworks (Bootstrap, Foundation)
-  - Javascript (Design Patterns, Tests)
-  - AngularJS - ReactJS
-  - Grunt - Gulp - Yeoman
-  - Git
-  - PHP
-  - MySQL - MongoDB
-  - Scrum and Kanban
-  - TDD & Continuous Integration
 
 ---
 
