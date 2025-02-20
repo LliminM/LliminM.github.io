@@ -4,6 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
+
 <style> body { max-width: 800px; margin: 0 auto; word-wrap: break-word; } .contact-info, .education, .projects, .skills, .awards, .work, .plans { margin-bottom: 20px; } .section-title { font-size: 1.5em; margin-bottom: 10px; border-bottom: 2px solid #000; padding-bottom: 5px; } .subsection-title { font-size: 1.2em; margin-bottom: 5px; } </style>
 
 
